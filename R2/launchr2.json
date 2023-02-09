@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch OdtwarzaczDVDtester",
+            "request": "launch",
+            "mainClass": "OdtwarzaczDVDtester",
+            "projectName": "Rozdział 2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MagnetofonTester",
+            "request": "launch",
+            "mainClass": "MagnetofonTester",
+            "projectName": "Rozdział 2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Perkusjatester",
+            "request": "launch",
+            "mainClass": "PerkusjaTester",
+            "projectName": "Rozdział 2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Echotester",
+            "request": "launch",
+            "mainClass": "Echotester",
+            "projectName": "Rozdział 2"
+        }
+    ]
+}
