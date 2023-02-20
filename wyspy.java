@@ -1,7 +1,7 @@
-
+//cokolwiek
 //składanie elementów kodu do kupy "Magnesik z kodem"
-class TestTablic{
-    public static void main(String[]args) {
+class TestTablic {
+    public static void main(String[] args) {
         int[] indeks = new int[4];
         String[] wyspy = new String[4];
 
@@ -16,11 +16,11 @@ class TestTablic{
         wyspy[3] = "Kozumel";
         int y = 0;
         int ref;
-            while(y<4){
-                ref = indeks[y];
-                System.out.print("wyspa = ");
-                System.out.println(wyspy[ref]);
-                y=y+1;
-            }
+        while (y < 4) {
+            ref = indeks[y];
+            System.out.print("wyspa = ");
+            System.out.println(wyspy[ref]);
+            y = y + 1;
+        }
     }
 }
